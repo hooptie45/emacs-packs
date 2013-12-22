@@ -1,0 +1,3 @@
+[submodule "np-helm/lib/helm"]
+	path = np-helm/lib/helm
+	url = https://github.com/emacs-helm/helm.git
